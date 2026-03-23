@@ -1,9 +1,3 @@
-Mình đã đọc nội dung PDF của bạn , dưới đây là phiên bản **định dạng Markdown để bạn đưa thẳng vào README.md trên GitHub**.
-
-Bạn chỉ cần copy toàn bộ phần dưới:
-
----
-
 # stego-mfcc-encode
 
 **Audio Steganography using MFCC Features**
@@ -183,14 +177,6 @@ labtainer -r stego-mfcc-encode
 
 * Đ. X. Chợ, *Giấu tin trong âm thanh dùng kỹ thuật tự đánh dấu*, 2023.
 
----
-
-Nếu bạn muốn README **chuẩn GitHub đẹp hơn (có ảnh, workflow, structure project)** thì mình có thể format lại chuyên nghiệp hơn nữa.
-Mình đã đọc nội dung PDF của bạn , dưới đây là phiên bản **định dạng Markdown để bạn đưa thẳng vào README.md trên GitHub**.
-
-Bạn chỉ cần copy toàn bộ phần dưới:
-
----
 
 # stego-mfcc-encode
 
